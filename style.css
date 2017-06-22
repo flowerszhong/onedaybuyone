@@ -6,5 +6,26 @@
 .wrap{
 	max-width: 800px;
 	margin:0 auto;
-	border:1px solid red;
+	padding: 30px;
+	background: url(images/bg2.jpg) repeat;
+}
+
+#header{
+	text-align: center;
+}
+
+
+#site-title{
+	text-align: center;
+	text-indent: -2000px;
+	width:160px;
+	height: 30px;
+	overflow: hidden;
+	margin: 20px auto;
+	background: url(images/logo.png) no-repeat;
+}
+
+
+#post{
+	background: white;
 }
